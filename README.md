@@ -1,0 +1,2 @@
+Interactive KNN with Euclidean & Manhattan Distance
+The purpose of this code was to build a Machine Learning subject presentation project that is both interactive and visual. It allows users to input their own data and apply the K-Nearest Neighbors (KNN) algorithm with a choice of Euclidean or Manhattan distance. The workflow integrates calculations, visualizations, and plots to display results clearly, making the learning process more engaging and easy to understand.
